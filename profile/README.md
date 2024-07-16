@@ -1,6 +1,6 @@
 # Spayneder
 
-Welcome to Spayneder's official GitHub repository. Here, we develop and share cutting-edge algorithms for trading, combining personalized expertise with advanced technology.
+Welcome to Spayneder's official GitHub repository. Here, we develop and provide cutting-edge algorithms for trading, combining personalized expertise with advanced technology.
 
 ## Description
 
