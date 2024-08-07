@@ -1,12 +1,12 @@
 # Spayneder
 
-Welcome to Spayneder's official GitHub repository. Here, we develop and share cutting-edge algorithms to automate trading, combining personalized expertise with advanced technology.
+Welcome to SpayneDev official GitHub repository. Here, we develop and share cutting-edge algorithms to automate trading, combining personalized expertise with advanced technology.
 
 ## Description
 
-**Spayneder: Innovating Algorithmic Trading**
+**SpayneDev: Innovating Algorithmic Trading**
 
-At Spayneder, we specialize in developing advanced algorithms to automate trading. Combining the expertise of personalized trading with cutting-edge technology, our solutions are designed to optimize performance and enhance decision-making. Our mission is to provide traders with intelligent tools that empower them to navigate the complexities of the financial markets with confidence and precision. Trust Spayneder for a smarter, more efficient trading experience.
+At SpayneDev, we specialize in developing advanced algorithms to automate trading. Combining the expertise of personalized trading with cutting-edge technology, our solutions are designed to optimize performance and enhance decision-making. Our mission is to provide traders with intelligent tools that empower them to navigate the complexities of the financial markets with confidence and precision. Trust Spayneder for a smarter, more efficient trading experience.
 
 ## Vision
 
