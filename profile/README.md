@@ -1,4 +1,4 @@
-# Spayneder
+# SpayneDev
 
 Welcome to SpayneDev official GitHub repository. Here, we develop and share cutting-edge algorithms to automate trading, combining personalized expertise with advanced technology.
 
